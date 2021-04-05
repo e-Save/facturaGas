@@ -1,5 +1,6 @@
 /* footer */
 .footer{
+
 }
 
 .footer .col-md-4{
@@ -64,7 +65,7 @@
   background-color: rgba(8,8,8,.05);;
   width: 100%;
   margin: 0px;
-  padding-top: 15px 0px;
+  padding: 15px 0px;
 }
 
 .subfooter .col-md-4{
